@@ -24,4 +24,4 @@ https://www.zotero.org/download/connectors
 
 https://github.com/polywock/globalSpeed
 
-调节网页视频播放速度，使用简单。
+调节网页视频播放速度，使用简单，可用于一切刷课任务。
